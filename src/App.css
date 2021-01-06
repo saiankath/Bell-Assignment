@@ -1,0 +1,27 @@
+
+
+.App-container {
+  max-width: 1335px;
+  margin: 0 auto;
+}
+
+
+
+.title{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+}
+
+.grid-item {
+  height: auto;
+  flex-basis: 20%;
+  width: auto;
+  position: relative;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 2px solid black;
+  margin:6px 2px
+}
+
+
